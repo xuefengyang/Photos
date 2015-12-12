@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FeedImageWrapperLayout">
+        <attr name="itemDividerPadding" format="dimension"></attr>
+        <attr name="isPaddingLeft" format="boolean"></attr>
+        <attr name="isPaddingRight" format="boolean"></attr>
+        <attr name="isPaddingTop" format="boolean"></attr>
+        <attr name="isPaddingBottom" format="boolean"></attr>
+        <attr name="isPadding" format="boolean"></attr>
+    </declare-styleable>
+</resources>
